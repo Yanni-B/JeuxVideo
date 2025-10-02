@@ -6711,7 +6711,7 @@ Transform:
   m_GameObject: {fileID: 1104318242}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -48.89, y: -19.27, z: 0}
+  m_LocalPosition: {x: -52.2, y: -14.55, z: 0}
   m_LocalScale: {x: 4.022246, y: 4.626746, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7207,7 +7207,7 @@ GameObject:
   - component: {fileID: 1258328136}
   m_Layer: 0
   m_Name: "Pi\xE8ge"
-  m_TagString: Droop
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8279,7 +8279,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 140
+  m_SortingOrder: 160
   m_Sprite: {fileID: -6367560908665664636, guid: 40de9a8703e2e5a47882b0b86451c741, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
